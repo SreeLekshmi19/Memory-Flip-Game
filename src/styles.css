@@ -228,9 +228,9 @@ button:hover {
     
 }
 
-/* @media (max-width: 480px) {
+@media (max-width: 480px) {
     h1 {
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
 
     .game-grid {
@@ -261,4 +261,4 @@ button:hover {
         background-attachment: fixed;
     }
     
-} */
+}
