@@ -229,6 +229,10 @@ button:hover {
 }
 
 @media (max-width: 480px) {
+    .container {
+        position: fixed;
+    }
+
     h1 {
         font-size: 1.6rem;
     }
