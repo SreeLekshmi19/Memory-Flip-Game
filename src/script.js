@@ -2,7 +2,7 @@ const grid = document.getElementById("game-grid");
 const movesText = document.getElementById("moves");
 const err = document.getElementById("err");
 
-const symbols = ['💖', '🌸', '🎀', '💎', '👑', '🦄', '🌷', '✨'];
+const symbols = ['🐶', '🐱', '🐰', '🦊', '🐼', '🦁', '🐨', '🐻'];
 let cardValues = [...symbols, ...symbols];
 let flippedCards = [];
 let lockBoard = false;

@@ -5,14 +5,15 @@
 }
 
 body {
-    font-family: 'Press Start 2P', cursive;
-    background: linear-gradient(45deg, #f1c6d2, #f8c8d8);
+    font-family: 'Roboto', sans-serif;
+    background: url('/assets/background1.webp') no-repeat center center/cover;
+    min-height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;
-    height: 100vh;
+    align-items: center;
+    padding: 2rem;
     flex-direction: column;
-    color: #fff;
+    color: #333;
 }
 
 .container {
@@ -23,31 +24,32 @@ body {
     text-align: center;
     width: 90%;
     max-width: 600px;
-    box-shadow: 0 0 20px rgba(255, 182, 193, 0.6);
+    box-shadow: 0 0 25px rgba(0, 128, 0, 0.3);
 }
 
 h1 {
-    color: #ff80bf;
+    font-family: 'Fredoka One', cursive;
+    color: #2e7d32;
     font-size: 2.5rem;
     margin-bottom: 1rem;
-    text-shadow: 0 0 10px #ff80bf, 0 0 20px #ff80bf;
+    text-shadow: 1px 1px #a5d6a7;
 }
 
 p {
-    color: #333;
+    color: #4e342e;
     font-size: 1.2rem;
     margin: 0.5rem;
 }
 
 #moves {
-    color: #ff80bf;
-    text-shadow: 0 0 10px #ff80bf;
+    color: #388e3c;
+    text-shadow: 1px 1px #a5d6a7;
 }
 
 #err {
     font-size: 1rem;
-    color: #ff6347;
-    text-shadow: 0 0 10px #ff6347;
+    color: #d32f2f;
+    text-shadow: 0 0 10px #d32f2f;
 }
 
 .game-grid {
@@ -85,20 +87,19 @@ p {
     width: 100%;
     height: 100%;
     background: #fff;
-    border: 2px solid #ff80bf;
+    border: 2px solid #388e3c;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 2rem;
-    color: #ff80bf;
+    color: #388e3c;
     backface-visibility: hidden;
-    box-shadow: 0 0 10px #ff80bf;
+    box-shadow: 0 0 12px rgba(0, 128, 0, 0.4);
 }
 
 .card-back {
     transform: rotateY(180deg);
-    background: linear-gradient(45deg, #f8c8d8, #f1c6d2);
 }
 
 @keyframes flipFront {
@@ -135,20 +136,20 @@ p {
 
 button {
     padding: 10px 20px;
-    background: #ff80bf;
+    background: #66bb6a;
     color: #fff;
     border: none;
     border-radius: 12px;
     font-size: 1rem;
     cursor: pointer;
-    box-shadow: 0 0 15px #ff80bf;
+    box-shadow: 0 4px 8px rgba(0, 128, 0, 0.3);
     transition: all 0.2s ease;
     margin-top: 2rem;
 }
 
 button:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 25px #ff80bf;
+    box-shadow: 0 0 25px #388e3c;
     border-radius: 12px;
 }
 
@@ -177,10 +178,6 @@ button:hover {
     animation: sparkle 0.5s ease-out infinite;
 }
 
-.card:hover .card-inner {
-    box-shadow: 0 0 25px #ff80bf, 0 0 50px #ff80bf;
-}
-
 @media (max-width: 768px) {
     .container {
         width: 85%;
@@ -205,7 +202,7 @@ button:hover {
 
     .card {
         margin-left: 0;
-        width: 50%;
+        width: 60%;
         height: 50px;
         margin-left: 20%;
     }
@@ -219,6 +216,10 @@ button:hover {
         font-size: 0.9rem;
         padding: 8px 16px;
         margin-top: 1.5rem;
+    }
+
+    body {
+        background-image: url('/assets/background2.webp');
     }
 }
 
