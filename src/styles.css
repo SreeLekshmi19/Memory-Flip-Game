@@ -220,7 +220,12 @@ button:hover {
 
     body {
         background-image: url('/assets/background2.webp');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
+    
 }
 
 @media (max-width: 480px) {
