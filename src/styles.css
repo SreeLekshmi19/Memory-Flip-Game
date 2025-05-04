@@ -252,4 +252,13 @@ button:hover {
         font-size: 0.85rem;
         padding: 6px 12px;
     }
+
+    body {
+        background-image: url('/assets/background2.webp');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    
 }
