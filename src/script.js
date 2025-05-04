@@ -62,7 +62,7 @@ function checkMatch() {
         lockBoard = false;
 
         if (document.querySelectorAll(".flip").length === 16) {
-            err.innerText = "🎉 You Win! Total Moves: " + moves;
+            err.innerText = "You Win! Total Moves : " + moves;
             err.style.color = "#32CD32";
         }
     } else {
