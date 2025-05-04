@@ -235,6 +235,7 @@ button:hover {
 
     .card {
         height: 50px;
+        width: 60%;
     }
 
     .card-front,
