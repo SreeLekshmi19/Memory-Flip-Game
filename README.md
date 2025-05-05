@@ -24,7 +24,7 @@ Welcome to **Animal Flip**, a fun and visually charming memory game where you fl
 - **CSS** (Responsive Design)
 - **JavaScript**
 
-🛠️ How It Works
+## 🛠️ How It Works
 
 - Shuffle and display animal cards face-down.
 - Player flips two cards at a time.
