@@ -32,7 +32,6 @@ Welcome to **Animal Flip**, a fun and visually charming memory game where you fl
 - If not → they flip back after a short delay.
 - Match all pairs to win the game.
 - Fully responsive on all devices.
-- Restart option to replay anytime.
 
 ## 🌐 Live Demo
 
