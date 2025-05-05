@@ -1,6 +1,6 @@
 # 🐾 Animal Flip - Memory Game 🎮
 
-Welcome to **Animal Flip**, a fun and visually charming memory game where you flip cards to match cute animal pairs! Designed with a animal theme and adorable jungle-style illustrations, this game is perfect for kids, animal lovers and game lovers.
+**Animal Flip**, a fun and visually charming memory game where you flip cards to match cute animal pairs! Designed with a animal theme and adorable jungle-style illustrations, this game is perfect for kids, animal lovers and game lovers.
 
 ## 📑 Table of Contents
 
