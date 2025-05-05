@@ -47,9 +47,9 @@ p {
 }
 
 #err {
-    font-size: 1rem;
-    color: #d32f2f;
-    text-shadow: 0 0 10px #d32f2f;
+    font-size: 1.2rem;
+    color: #388e3c;
+    text-shadow: 0 0 10px #388e3c;
 }
 
 .game-grid {
