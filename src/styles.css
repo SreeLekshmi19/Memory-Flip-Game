@@ -225,7 +225,7 @@ button:hover {
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
-    
+
 }
 
 @media (max-width: 480px) {
@@ -264,5 +264,5 @@ button:hover {
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
-    
+
 }
