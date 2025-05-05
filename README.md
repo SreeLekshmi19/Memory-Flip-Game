@@ -25,7 +25,7 @@ Welcome to **Animal Flip**, a fun and visually charming memory game where you fl
 1. **Fork the repository**
 2. **Clone the repository :**
    ```bash
-   git clone https://github.com/your-username/E-Commerce-Product-Listing-App.git
+   git clone https://github.com/your-username/Memory-Flip-Game.git
 3. **Make your changes**
 4. **Commit and Push your changes :**
    ```bash
