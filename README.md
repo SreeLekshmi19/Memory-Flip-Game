@@ -1,6 +1,14 @@
 # 🐾 Animal Flip - Memory Game 🎮
 
-Welcome to **Animal Flip**, a fun and visually charming memory game where you flip cards to match cute animal pairs! Designed with a animal theme and adorable jungle-style illustrations, this game is perfect for kids, animal lovers.
+Welcome to **Animal Flip**, a fun and visually charming memory game where you flip cards to match cute animal pairs! Designed with a animal theme and adorable jungle-style illustrations, this game is perfect for kids, animal lovers and game lovers.
+
+## 📑 Table of Contents
+
+- [🚀 Features](#-features)
+- [🖥️ Tech Stack](#️-tech-stack)
+- [🛠️ How It Works](#-how-it-works)
+- [🌐 Live Demo](#-live-demo)
+- [🤝 Contributing](#-contributing)
 
 ## 🚀 Features
 
@@ -10,11 +18,21 @@ Welcome to **Animal Flip**, a fun and visually charming memory game where you fl
 - 🧠 **Memory Challenge**: Sharpen your memory with increasing difficulty.
 - 📱 **Responsive Design**: Play seamlessly on mobile, tablet, and desktop.
 
-## 🔧 Technologies Used
+## 🖥️ Tech Stack
 
 - **HTML**
 - **CSS** (Responsive Design)
 - **JavaScript**
+
+🛠️ How It Works
+
+- Shuffle and display animal cards face-down.
+- Player flips two cards at a time.
+- If cards match → they stay flipped.
+- If not → they flip back after a short delay.
+- Match all pairs to win the game.
+- Fully responsive on all devices.
+- Restart option to replay anytime.
 
 ## 🌐 Live Demo
 
