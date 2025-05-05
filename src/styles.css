@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: url('/assets/d53fa238a42de2f4f4eaba3f4f2eb7f0.jpg') no-repeat center center/cover;
+    background: url('/assets/background1.jpg') no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -219,7 +219,7 @@ button:hover {
     }
 
     body {
-        background-image: url('/assets/836562319a6d93c2aebdc5d714d9b487.jpg');
+        background-image: url('/assets/background2.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -258,7 +258,7 @@ button:hover {
     }
 
     body {
-        background-image: url('/assets/36df08ccefdd23b27864a09f56628fd4.jpg');
+        background-image: url('/assets/background3.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
