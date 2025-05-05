@@ -258,9 +258,9 @@ button:hover {
     }
 
     body {
-        background-image: url('/assets/1000_F_343481530_RfQ4O6UgmtyFDXeSqFnBgbCgXQiCbg4t.jpg');
+        background-image: url('/assets/background2.webp');
         background-size: cover;
-        background-position: bottom;
+        background-position: center;
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
