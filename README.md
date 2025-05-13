@@ -14,7 +14,7 @@
 
 - **Flip Cards**: Match pairs of adorable animals to win!
 - **Jungle Style**: Colorful visuals with glowing jungle vibes.
-- **Animal Theme**: Illustrated animals including 🐶 🐱 🦊 🐼 🐰 🦁 🐨and even a 🐻!
+- **Animal Theme**: Illustrated animals including 🐯, 🐵, 🐍, 🦊, 🐼, 🦁, 🦓 and even a 🐻!
 - **Memory Challenge**: Sharpen your memory with increasing difficulty.
 - **Responsive Design**: Play seamlessly on mobile, tablet, and desktop.
 
