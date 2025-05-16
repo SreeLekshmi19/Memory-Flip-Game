@@ -95,7 +95,6 @@ p {
     font-size: 2rem;
     color: #388e3c;
     backface-visibility: hidden;
-    box-shadow: 0 0 12px rgba(0, 128, 0, 0.4);
 }
 
 .card-back {
